@@ -1,7 +1,7 @@
 #!/usr/bin/bash
-#IndonesianHWT
-#@otak_udang08
-#by MrZhu
+#
+#@hyputganz_
+#by FiqiSans 
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -13,31 +13,31 @@ echo  $blue "<|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°�
 echo  $green    "|       Tools Spesial WhatsApp       |"
 echo  $green    "|                                    |"
 echo  $green    "| Author        : FiqiSans           |"
-echo  $green    "| Recode        : FiqiXcode7                |"
+echo  $green    "| Recode        : FiqiXcode7         |"
 echo  $green    "| My Team       : IndonesianErorTeam |"
 echo  $green    "| FOLLOW IG     : @HYPUTGANZ_        |"
-echo  $green    "| With Love     : Slma Mlni♡           |"
+echo  $green    "| With Love     : Slma Mlni♡         |"
 echo  $blue "<|°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°|>"
 sleep 1
 echo " "
 echo $green "============== $red MENU $green ================="
 echo $blue "======================================="
-echo $blue "|| $green 1. Sadap WhatsApp  $blue              ||"
-echo $blue "|| $green 2. Spam WhatsApp       $blue          ||"
-echo $blue "|| $green 3. Nambah Kontak      $blue           ||"
-echo $blue "|| $green 0. Keluar          	$blue      ||"
+echo $blue "|| $green 1. Sadap WhatsApp  $blue   ||"
+echo $blue "|| $green 2. Spam WhatsApp   $blue   ||"
+echo $blue "|| $green 3. Nambah Kontak   $blue   ||"
+echo $blue "|| $green 0. Keluar          	$blue  ||"
 echo $blue "======================================="
 echo $blue"╭──[Tinggal Pilih Aja]>"
-read -p"╰───────root@FiqCode7=>" Gans;
+read -p"   ╰───────root@FiqCode7=>" Gans;
 if [ $Gans = 1 ] || [ $Gans = 01 ]
 then
 echo
 echo $green"╭──["$red"Masukan Nomor Kamu"$green"]>"
-read -p"╰───────root@FiqCode7=•>" nama;
+read -p"    ╰───────root@FiqCode7=•>" nama;
 sleep 1
 echo
 echo $green"╭──["$red"Masukan Nomor Target"$green"]>"
-read -p"╰───────root@FiqCode7=•>" cewek;
+read -p"    ╰───────root@FiqCode7=•>" cewek;
 sleep 1
 echo $green "Sedang melakukan penyadapan"
 sleep 1
@@ -86,7 +86,7 @@ fi
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
 echo $blue"╭──[Kontak cewek/cowok]>"
-read -p"╰───────root@FiqCode7=>" nama;
+read -p"   ╰───────root@FiqCode7=>" nama;
 sleep 1
 echo $red "Loading..."
 sleep 1
@@ -109,7 +109,7 @@ sleep 1
 echo $purple "+628584800635"
 sleep 1
 echo $blue "Terakhir Kontak gw FiqiXcode7"
-sleep 1
+sleep 3
 echo $blue "-083125187277-"
 fi
 
